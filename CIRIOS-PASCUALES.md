@@ -1,9 +1,11 @@
 [CIRIOS-PASCUALES](./CIRIOS-PASCUALES.md)| [VELADORAS- AROMÁTICAS](./VELADORAS-AROMÁTICAS.md) | [VELADORAS-ECOLÓGICAS](./VELADORAS-ECOLÓGICAS.md)  | [CONTACTO](./CONTACTO.md) 
 - - -
-| PRECIO| ILUSTRACIÓN | MEDIDAS|
+| __PRECIO | ILUSTRACIÓN | MEDIDAS|
 |-------------------------|-------------|--------------|
-|$55 pesos|![IMG_20220326_132522](https://user-images.githubusercontent.com/99773679/160254283-da067605-e412-4850-a1ed-4607dac0ceff.jpg)|12 CM DE LARGO X 4.5 CM DE ANCHO|
-|$160 pesos|![IMG_20220326_133428](https://user-images.githubusercontent.com/99773679/160254613-6ca08b17-3722-4b25-b759-cf03346a296c.jpg)|20 CM DE LARGO X 6.3 CM DE ANCHO|
+|Conocimientos en materia de Ciberseguridad| ![image](https://user-images.githubusercontent.com/99773679/157128809-525cd755-c40b-4e45-be69-aebd863a9eb5.png) |82% |
+| $160 PESOS | ![image](https://user-images.githubusercontent.com/99773679/160254835-919f1e86-8199-476f-acbc-d39a067be3ff.png) | LARGO :20CM  ANCHO:6.3 CM|
+|  Visualización de datos |![image](https://user-images.githubusercontent.com/99773679/157130665-136a3f9e-f781-4b7b-873d-caa1c6d7c590.png)| 91% |
+|                                                      |
 
 
 
