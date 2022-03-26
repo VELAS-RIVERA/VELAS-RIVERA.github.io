@@ -7,6 +7,8 @@
 ![image](https://user-images.githubusercontent.com/99773679/160255273-a78f6f02-0d73-426c-a39f-e3a0d99f5354.png)   $ 100 PESOS  MEDIDAS : LARGO:23 CM  ANCHO: 5 CM
 - - - 
 ![image](https://user-images.githubusercontent.com/99773679/160255571-b4c74484-a5dc-44be-9b98-e92c54046812.png) $ 70 PESOS  MEDIDAS : LARGO:22 CM  ANCHO: 5 CM
+- - -
+![image](https://user-images.githubusercontent.com/99773679/160255771-a1bf461d-4a24-4b47-bd95-f9553369470a.png)  $235 PESOS MEDIDAS: LARGO :45 CM ANCHO: 5 CM
 
 
                                                       
