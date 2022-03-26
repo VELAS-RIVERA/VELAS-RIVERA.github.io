@@ -1,2 +1,5 @@
 [CICIRIOS-PASCUALES](./CIRIOS-PASCUALES.md)| [VELADORAS- AROMÁTICAS](./VELADORAS-AROMÁTICAS.md) | [VELADORAS-ECOLÓGICAS](./VELADORAS-ECOLÓGICAS.md)  | [CONTACTO](./CONTACTO.md) 
 - - -
+| PRECIO| ILUSTRACIÓN | MEDIDAS|
+|-------------------------|-------------|--------------|
+|$55 pesos|
